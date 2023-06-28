@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Script display "Best school" x10
+
+g=0
+
+until [ $g -eq 10 ]
+do
+  echo "Best School"
+  ((g++))
+done
