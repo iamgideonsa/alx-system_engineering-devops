@@ -1,4 +1,4 @@
-# 0x0F. Load balancer
+# 0x0E. Web stack debugging #1
 
 This project was done during **ALX SE Studies** at **ALX School**.
 
