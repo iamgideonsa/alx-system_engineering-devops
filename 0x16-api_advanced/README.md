@@ -31,4 +31,4 @@ This project was done during **ALX SE Studies** at **ALX School**. The end game 
 | `100-count.py` | A recursive function that queries the `Reddit API`, parses the title of all hot articles, and prints a sorted count of given keywords (case-insensitive, delimited by spaces. `Javascript` should count as `javascript`, but `java` should not). |
 
 ## `Author:`
-### Gideon Selorm Attakpah: <attakpahgideon@gmail.com> [GitHub](https://github.com/iamgideonchrist) - [Twitter](https://twitter.com/iamgideonchrist) - [Linkedin](https://www.linkedin.com/in/iamgideonchrist/)
+### Gideon Selorm Attakpah: <attakpahgideon@gmail.com> - [GitHub](https://github.com/iamgideonchrist) - [Twitter](https://twitter.com/iamgideonchrist) - [Linkedin](https://www.linkedin.com/in/iamgideonchrist/)
